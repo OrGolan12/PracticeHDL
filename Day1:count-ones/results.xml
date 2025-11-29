@@ -1,6 +1,0 @@
-<testsuites name="results">
-  <testsuite name="all" package="all">
-    <property name="random_seed" value="1764408758" />
-    <testcase name="test" classname="count-ones-tb" file="/Users/orgo/Documents/ECE/Electrical-Engineering/cocotb/count-ones/count-ones-tb.py" lineno="9" time="0.009647130966186523" sim_time_ns="2562.0" ratio_time="265571.184736673" />
-  </testsuite>
-</testsuites>
