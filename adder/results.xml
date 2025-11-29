@@ -1,6 +1,0 @@
-<testsuites name="results">
-  <testsuite name="all" package="all">
-    <property name="random_seed" value="1764322416" />
-    <testcase name="test" classname="adder_tb" file="/Users/orgo/Documents/ECE/Electrical-Engineering/cocotb/adder/adder_tb.py" lineno="9" time="0.0001652240753173828" sim_time_ns="10.0" ratio_time="60523.867243867244" />
-  </testsuite>
-</testsuites>
