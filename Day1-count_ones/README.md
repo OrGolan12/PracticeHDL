@@ -23,3 +23,9 @@
 | 00000000 | 0000 |
 | 10101010 | 0100 |
 | 11111111 | 1000 |
+
+## Waveform
+<img width="1602" height="170" alt="image" src="https://github.com/user-attachments/assets/3d992dd5-5081-4feb-b337-d60838b636e0" />
+
+
+
